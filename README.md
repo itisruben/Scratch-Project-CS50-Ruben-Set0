@@ -1,6 +1,8 @@
 # Scratch-Project-CS50-Ruben-Set0
 Project Submission for Problem Set0 of CS50
 
+Can be viewed at https://youtu.be/ZSdhqGJzb_I
+
 Visit https://scratch.mit.edu/projects/editor/?tutorial=getStarted
 
 Click on File -> Load From Your Computer 
